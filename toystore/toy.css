@@ -1,0 +1,332 @@
+.A{
+    width: 100%;
+    height: 80px;
+    background-color:lavender;
+    display: flex;
+    
+    
+}
+
+ 
+.A1{
+    display: flex;
+    margin-left: 20px;
+}
+.A1 h4{
+    margin-left: 30px;
+    margin-top:35px;
+}
+.A2{
+    margin-left: 600px;
+}
+.A2 h4{
+    margin-top: 40px;
+    margin-right: 60px;
+}
+.B{
+     margin-top: 50px; 
+    background-image: url(Toybg.jpg);
+    height:500px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;   
+}
+
+.B button{
+    border-radius: 50px;
+    padding: 15px;
+    width: 150px;
+    background-color:limegreen;
+    
+}
+.B1 {
+    height:300px;
+    width: 600px;
+    background-color:lightcyan;
+    text-align: center;
+     margin-left: 400px;
+     
+}
+.B1 h5{
+    padding-top: 60px;
+}
+.C{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    column-gap: 35px;
+    margin-top: 100px;
+}
+.C1{
+    height: 200px;
+    width:550px;
+    background-color:orange;
+    border-radius:15px;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 100px;
+
+}
+.C1 button{
+    border-radius: 50px;
+    width:120px;
+    padding: 15px;
+    margin-top: 10px;
+    margin-left: 80px;
+    background-color:greenyellow;
+}
+
+.C1 h1{
+    margin-top: -130px;
+    margin-left: 120px;
+
+}
+.C1 img{
+    height: 230px;
+    margin-right: 300px;
+    margin-top:-55px;
+
+}
+.C2{
+    height: 200px;
+    width:550px;
+    background-color:lightcoral;
+    border-radius:15px;
+    text-align: center;
+    margin-top: 80px;
+}
+.C2 button{
+        border-radius: 50px;
+        width:120px;
+        padding: 15px;
+        margin-top: 10px;
+        margin-left: 300px;
+}
+.C2 h1{
+    margin-top:-130px;
+    margin-left: 150px;
+}
+.C2 img{
+    height: 230px;
+    margin-right: 300px;
+    margin-top:-55px;
+}
+.D hr{
+    width: 100%;
+    color: blueviolet;
+}
+.D1 hr{
+    color: blue;
+    width:100%;}
+
+.E {
+    display:flex;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.E :hover{
+    transform: scale(1.1);
+    background:linear-gradient(blue,pink)
+} 
+.e1{
+    height: 350px;
+    width: 250px;
+    background-color:lavender;
+    border-radius:15px ;
+    margin-left: 10px;  
+    text-align: center;
+}
+ .e2{
+    height: 350px;
+    width: 250px;
+    background-color:lavender;
+    border-radius:15px ;
+    margin-left: 50px;
+    text-align: center;
+
+ }
+ .e3{  height: 350px;
+    width: 250px;
+    background-color:lavender;
+    border-radius:15px ;
+    margin-left: 50px;
+    text-align: center;
+}
+.e4{
+    height: 350px;
+    width: 250px;
+    background-color:lavender;
+    border-radius:15px ;
+    margin-left: 50px;
+    text-align: center;
+}
+.e1 img{
+        height: 230px; 
+       
+}
+.e2 img{
+    height: 230px; 
+   
+}
+.e3 img{
+    height: 230px; 
+}
+.e4 img{
+    height: 230px; 
+}
+.e1 button 
+{
+    border-radius: 50px;
+    background-color:green;
+}
+.e2 button{
+    border-radius: 50px;
+    background-color:green;
+}
+
+.e3 button{
+    border-radius: 50px;
+    background-color:green;
+}
+
+.e4 button{
+    border-radius: 50px;
+    background-color:green;
+}
+.F{
+display: flex;
+    margin-left: 50px;
+    margin-top: 100px;}
+    
+.F :hover{
+    transform: scale(1.1);
+    background:linear-gradient(blue,pink)
+}
+.f1{
+    height: 350px;
+    width: 250px;
+    background-color:lavender;
+    border-radius:15px ;
+    margin-left: 10px;  
+    text-align: center;
+}
+.f2{
+    height: 350px;
+    width: 250px;
+    background-color:lavender;
+    border-radius:15px ;
+    margin-left: 50px;  
+    text-align: center;}
+    .f3{
+        height: 350px;
+        width: 250px;
+        background-color:lavender;
+        border-radius:15px ;
+        margin-left: 50px;  
+        text-align: center;
+    }
+    .f4{
+        height: 350px;
+        width: 250px;
+        background-color:lavender;
+        border-radius:15px ;
+        margin-left: 50px;  
+        text-align: center;
+    }
+    .f1 img{
+        height: 230px;
+    } 
+    .f2 img{
+        height: 230px; 
+    }
+    .f3 img{
+        height: 230px; 
+    }
+    .f4 img{
+            height: 230px; 
+    }
+    .f1 button{
+        border-radius: 50px;
+        background-color:green;
+        }
+        .f2 button{
+            border-radius: 50px;
+            background-color:green; 
+        }
+        .f3 button{
+            border-radius: 50px;
+            background-color:green;
+        }
+        .f4 button{
+            border-radius: 50px;
+            background-color:gray;
+        }
+        .G{
+            text-align: center;
+            margin-top: 100px;
+        }
+        .G button{
+            height: 60px;
+            width: 60px;
+            border-radius: 100%;
+
+        }
+        .G img{
+            width: 100%;
+            height:450px;
+        }
+        .g{
+            margin-top: -350px;
+        }
+        .H{
+            margin-top: 200px;
+            text-align: center;
+        }
+        .I{
+            margin-left: 100px;
+            margin-top: 200px;
+           
+        }
+        .I hr{
+            width: 70px;
+            margin-right:1200px ;
+            height:0.5mm;
+            background-color:blueviolet;
+        }
+        .I button{
+            border-radius:50px;
+            width: 150px;
+            padding: 15px;
+        }
+        .J img{
+            height:400px;
+            width: 550px;
+            margin-left: 650px;
+            margin-top:-300px;
+            border-radius: 30px;
+        }
+        .K {
+            margin-top: 100px;
+            width: 90%;
+            height: 180px;
+            background-color:gray;
+            margin-left: 70px;
+            display: flex;
+        }
+        .K ion-icon {
+            height:70px;
+           width: 70px;
+            border-radius: 50%;
+            background-color: orchid;
+            margin-top: 50px;
+            margin-left: 50px;
+        }
+        .K h1{
+            margin-left: 40px;
+            margin-top: 50px;
+        }
+        
+
+    
+
+ 
